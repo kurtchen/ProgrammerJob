@@ -1,0 +1,10 @@
+assets*
+bin*
+gen*
+release*
+.classpath
+.project
+.settings*
+default.properties
+*.bak
+doc*
